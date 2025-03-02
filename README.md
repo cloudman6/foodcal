@@ -1,4 +1,4 @@
-# test_flutter_app
+# foodcal
 
 A new Flutter project.
 
